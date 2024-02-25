@@ -32,6 +32,17 @@ Currently, two official plugins are available:
 
 ---
 
+<details>
+  <summary>📂 Ideal File/Folder Structure</summary>
+
+<img src="./public/ideal-folder-structure.webp"
+  alt="file/folder structure representation"
+  width="60%">
+
+</details>
+
+---
+
 ## Documentation Template
 
 <a name="readme-top"></a>
