@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vite,javascript,sass,css"/>
-    <h2><b>React + Vite + SCSS or CSS3</b></h2>
+    <img src="https://skillicons.dev/icons?i=vite,react,javascript,sass,css"/>
+    <h2><b>Vite: React + JavaScript + SCSS or CSS3</b></h2>
 </div>
 
 > This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules + Airbnb style guide.
